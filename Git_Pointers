@@ -40,7 +40,7 @@ git init
 //initialize an existing directory as a Git repository
 
 git status
-//show the current file status
+//show the current file statu s
 
 
 
