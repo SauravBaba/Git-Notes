@@ -39,7 +39,7 @@ Configuring user information, initializing and cloning repositories
 git init
 //initialize an existing directory as a Git repository
 
-git status
+git statusm
 //show the current file statu s
 
 
