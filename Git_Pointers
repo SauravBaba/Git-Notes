@@ -37,7 +37,7 @@ SETUP & INIT
 Configuring user information, initializing and cloning repositories
 
 git init
-//initialize an existing directory as a Git repository
+//ini  tialize an existing directory as a Git repository
 
 git statusm
 //show the current file statu s
