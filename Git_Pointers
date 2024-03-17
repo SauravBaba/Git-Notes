@@ -34,7 +34,7 @@ git config --global --edit
 
 SETUP & INIT
 
-Configuring user information, initializing and cloning repositories
+Configuring user infor  mation, initializing and cloning repositories
 
 git init
 //ini  tialize an existing directory as a Git repository
